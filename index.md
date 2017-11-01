@@ -17,4 +17,4 @@ De nieuwe site bij Git!
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="640" height="350" src="https://useplink.com/payment/edcVW3wMearjzSRKy2RE" frameborder="0" allowfullscreen ></iframe>
-</div>
+</div>  
