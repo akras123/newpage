@@ -1,6 +1,6 @@
 ---
 title: Steun de Stichting Fly Aware
-layout: page
+layout: default
 parent: /stichting/
 illustratie: illustratie-7.jpg
 published: true
