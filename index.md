@@ -8,7 +8,7 @@ De nieuwe site bij Git!
 **test een iframe****
 
 iframe met externe referentie
-<iframe src="http://www.flyaware.info" frameborder="1" id="mainPageBody" width="575px" height="300px"></iframe>
+<iframe src="http://www.flyaware.info/index.html" frameborder="1" id="mainPageBody" width="575px" height="300px"></iframe>
 
 
 iframe met externe referentie
