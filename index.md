@@ -7,14 +7,9 @@ De nieuwe site bij Git!
 
 **test een iframe****
 
-<iframe src="https://useplink.com/payment/edcVW3wMearjzSRKy2RE" frameborder="0" id="mainPageBody" width="800px" height="500px"></iframe>
+<iframe src="https://useplink.com/payment/edcVW3wMearjzSRKy2RE" frameborder="1" id="mainPageBody" width="600px" height="300px"></iframe>
 
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe width="640" height="350" src="https://useplink.com/payment/edcVW3wMearjzSRKy2RE" frameborder="0" allowfullscreen class="embed-responsive-item"></iframe>
+  <iframe width="600" height="300" src="https://useplink.com/payment/edcVW3wMearjzSRKy2RE" frameborder="1" allowfullscreen class="embed-responsive-item"></iframe>
 </div>
-
-
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe width="640" height="350" src="https://useplink.com/payment/edcVW3wMearjzSRKy2RE" frameborder="0" allowfullscreen ></iframe>
-</div>  
