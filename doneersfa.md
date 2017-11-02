@@ -18,7 +18,7 @@ Ziet u het belang in van het opzetten van meer onderzoek?
 
 Frame met externe referentie naar plink
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe width="575" height="300" src="https://useplink.com/payment/edcVW3wMearjzSRKy2RE" frameborder="10" allowfullscreen class="embed-responsive-item"></iframe>
+  <iframe width="575" height="300" src="https://useplink.com/payment/edcVW3wMearjzSRKy2RE" frameborder="0" allowfullscreen class="embed-responsive-item"></iframe>
 </div>
 
 
