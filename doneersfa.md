@@ -15,6 +15,13 @@ Ziet u het belang in van het opzetten van meer onderzoek?
 
 [<b>KLIK HIER OM ONS TE STEUNEN!</b>](https://useplink.com/payment/edcVW3wMearjzSRKy2RE) <a href="https://useplink.com/payment/edcVW3wMearjzSRKy2RE"><img src="{{baseurl}}/assets/img/Fotolia_doneerknop-100px.jpg"></a>  
 
+
+Frame met externe referentie naar plink
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe width="575" height="300" src="https://useplink.com/payment/edcVW3wMearjzSRKy2RE" frameborder="1" allowfullscreen class="embed-responsive-item"></iframe>
+</div>
+
+
 Iedere bijdrage, groot of klein, is meer dan welkom op  
 <b>IBAN NL85INGB0007749372</b>  
 t.n.v. Stichting Fly Aware.  
