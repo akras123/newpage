@@ -13,7 +13,7 @@ iframe met externe referentie
 
 iframe met externe referentie
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe width="575" height="300" src="http://www.flyaware.info" frameborder="1" allowfullscreen class="embed-responsive-item"></iframe>
+  <iframe width="575" height="300" src="http://www.flyaware.info/index.html" frameborder="1" allowfullscreen class="embed-responsive-item"></iframe>
 </div>
 
 lokaal plaatje
